@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening1", "Oefening1\Oefening1.csproj", "{1B772769-52F4-4DF3-9C5C-D8417013F9F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening2", "Oefening2\Oefening2.csproj", "{ED1FAC76-D705-45DB-B916-AC405123529E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening3", "Oefening3\Oefening3.csproj", "{3E2D9188-A7D5-4E16-B938-E8CA3D3F2653}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B772769-52F4-4DF3-9C5C-D8417013F9F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B772769-52F4-4DF3-9C5C-D8417013F9F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B772769-52F4-4DF3-9C5C-D8417013F9F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B772769-52F4-4DF3-9C5C-D8417013F9F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED1FAC76-D705-45DB-B916-AC405123529E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1FAC76-D705-45DB-B916-AC405123529E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1FAC76-D705-45DB-B916-AC405123529E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1FAC76-D705-45DB-B916-AC405123529E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E2D9188-A7D5-4E16-B938-E8CA3D3F2653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2D9188-A7D5-4E16-B938-E8CA3D3F2653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2D9188-A7D5-4E16-B938-E8CA3D3F2653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2D9188-A7D5-4E16-B938-E8CA3D3F2653}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {029DE807-55FE-40A9-9515-4CFA34478295}
+	EndGlobalSection
+EndGlobal
